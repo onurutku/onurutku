@@ -1,4 +1,4 @@
-### Hi 👋I'm Onur
+### <style>display:flex; justify-text:center;</style> Hi 👋I'm Onur
 <hr/>
 <strong>A Front End Developer from Ankara/Turkey</strong>
 
