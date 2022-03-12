@@ -9,7 +9,7 @@
 - 📫 How to reach me: [![LinkedIn]](https://www.linkedin.com/in/onurutkutopaloglu/) 
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/typescript.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
 
 <hr/>
 
