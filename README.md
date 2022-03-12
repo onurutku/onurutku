@@ -8,6 +8,8 @@
 - 💬 Ask me about JavaScript,HTML5,CSS3,Angular
 - 📫 How to reach me: https://www.linkedin.com/in/onurutkutopaloglu/
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurutku&show_icons=true)
+
 <!--
 **onurutku/onurutku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
