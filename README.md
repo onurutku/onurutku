@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on https://cakecoin.netlify.app
 - 🌱 I’m currently learning Javascript/Angular
 - 💬 Ask me about JavaScript,HTML5,CSS3,Angular
-- 📫 How to reach me: https://www.linkedin.com/in/onurutkutopaloglu/
+- 📫 How to reach me: [![LinkedIn]](https://www.linkedin.com/in/onurutkutopaloglu/) 
 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/onurutkutopaloglu/) 
+
 
 <hr/>
 
