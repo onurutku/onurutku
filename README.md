@@ -8,6 +8,8 @@
 - 💬 Ask me about JavaScript,HTML5,CSS3,Angular
 - 📫 How to reach me: https://www.linkedin.com/in/onurutkutopaloglu/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurutku&layout=compact)](https://github.com/onurutku/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurutku&show_icons=true&theme=onedark)
 
 <!--
