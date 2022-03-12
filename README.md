@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on https://cakecoin.netlify.app
 - 🌱 I’m currently learning Javascript/Angular
 - 💬 Ask me about JavaScript,HTML5,CSS3,Angular
-- 📫 How to reach me: ![LinkedIn|(https://www.linkedin.com/in/onurutkutopaloglu/)]
+- 📫 How to reach me: ![[LinkedIn](https://www.linkedin.com/in/onurutkutopaloglu/)]
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
 
