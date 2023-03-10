@@ -1,6 +1,6 @@
 ### Hi 👋I'm Onur
 <hr/>
-<strong>A Front End Developer from Ankara/Turkey</strong>
+<strong>A Frontend Developer from Ankara/Turkey</strong>
 
 
 - 🔭 I’m currently working on https://cakecoin.netlify.app
