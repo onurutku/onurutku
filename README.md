@@ -3,7 +3,7 @@
 <strong>A Frontend Developer from Ankara/Turkey</strong>
 
 
-- 🔭 I’m currently working for https://www.orioninc.com/
+- 🔭 I’m currently work for https://www.orioninc.com/
 - 🌱 I’m currently learning Javascript/Angular
 - 💬 Ask me about JavaScript,HTML5,CSS3,Angular
 - 📫 How to reach me: ![[LinkedIn](https://www.linkedin.com/in/onurutkutopaloglu/)]
